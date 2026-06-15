@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#FFD700</color>
+    <color name="primary_dark">#1a1a2e</color>
+    <color name="accent">#00d4ff</color>
+    <color name="background">#0f0f1e</color>
+    <color name="surface">#16213e</color>
+    <color name="error">#ff4444</color>
+    <color name="success">#00ff00</color>
+    
+    <!-- Rune Colors -->
+    <color name="rune_fire">#FF6B35</color>
+    <color name="rune_water">#004E89</color>
+    <color name="rune_nature">#1B998B</color>
+    <color name="rune_lightning">#FFD700</color>
+    <color name="rune_light">#FFFFFF</color>
+    <color name="rune_shadow">#2D3142</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0B0B0</color>
+</resources>

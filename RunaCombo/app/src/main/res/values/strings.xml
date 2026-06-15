@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">РунаКомбо</string>
+    <string name="play_button">ИГРАТЬ</string>
+    <string name="coins">Монеты</string>
+    <string name="crystals">Кристаллы</string>
+    <string name="energy">Энергия</string>
+    <string name="daily_rewards">Ежедневные награды</string>
+    <string name="tasks">Задания</string>
+    <string name="events">События</string>
+    <string name="heroes_collection">Коллекция героев</string>
+    <string name="runes_collection">Коллекция рун</string>
+    <string name="shop">Магазин</string>
+    <string name="game_description">Создавай комбо. Пробуждай руны. Побеждай легенд.</string>
+    <string name="loading">Загрузка...</string>
+    <string name="tutorial_text">Соединяй руны по 3 и более для создания комбо!</string>
+    <string name="level">Уровень</string>
+    <string name="world_map">Карта мира</string>
+</resources>
